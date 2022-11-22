@@ -1,1 +1,1 @@
-test@192.168.209.143
+test@192.168.209.143 apache_package=apache2 php_package=libapache2-mod-php
